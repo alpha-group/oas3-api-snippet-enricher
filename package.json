@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "js-yaml": "^3.13.1",
-    "openapi-snippet": "^0.14",
+    "openapi-snippet": "https://github.com/alpha-group/openapi-snippet.git",
     "yargs": "^15.3.1"
   }
 }

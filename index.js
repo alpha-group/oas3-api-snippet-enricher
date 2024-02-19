@@ -27,7 +27,7 @@ if (args.targets) {
  */
 const formatTitle = function (targetStr) {
   const targetTitleMap = {
-    shell_curl: "cURL",
+    shell_curl: "curl",
     ruby_native: "Ruby",
     python_python3: "Python",
     node_native: "Node.js",
